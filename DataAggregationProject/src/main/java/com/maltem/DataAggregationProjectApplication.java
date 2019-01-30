@@ -9,5 +9,5 @@ public class DataAggregationProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DataAggregationProjectApplication.class, args);
 	}
-
+ 
 }
